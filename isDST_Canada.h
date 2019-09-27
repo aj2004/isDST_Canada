@@ -9,7 +9,6 @@
 #ifndef isDST_Canada_h
 #define isDST_Canada_h
 
-
 bool isDST_Canada(int month, int day, int dow);
 
 #endif
