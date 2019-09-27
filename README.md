@@ -1,4 +1,4 @@
-# PWM_RampLinear
+# isDST_Canada
 Canadian Daylight Savings Time function.
 
 by aj2004
